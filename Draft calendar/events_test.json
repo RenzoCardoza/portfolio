@@ -1,0 +1,26 @@
+{
+    "events" : [
+        {
+            "summary" : "Test1",
+            "start" : {
+                "dateTime" : "2023-02-13T09:30:00-03:00",
+                "timeZone" : "America/Sao_Paulo"
+            },
+            "end" : {
+                "dateTime" : "2023-02-13T10:00:00-03:00",
+                "timeZone" : "America/Sao_Paulo"
+            }
+        },
+        {
+            "summary" : "Test2",
+            "start" : {
+                "dateTime" : "2023-02-13T11:30:00-03:00",
+                "timeZone" : "America/Sao_Paulo"
+            },
+            "end" : {
+                "dateTime" : "2023-02-13T12:00:00-03:00",
+                "timeZone" : "America/Sao_Paulo"
+            }
+        }
+    ]    
+}
